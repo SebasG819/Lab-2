@@ -1,0 +1,28 @@
+section{
+    background-color: rgb(43, 106, 161);
+    margin:20px;
+    color: white;
+    padding: 40px;
+    border-radius: 8px;
+    width: fit-content;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-style: Verdana;
+    display: flex;
+    flex-direction: column;   
+}
+
+button{ 
+
+margin-top: 20% ;
+border-radius: 20px;
+color: rgb(255, 255, 255);
+background-color: black;
+width: 130px;
+height: 40px;
+
+}
+
+img{
+    width: 50px;
+    
+}
